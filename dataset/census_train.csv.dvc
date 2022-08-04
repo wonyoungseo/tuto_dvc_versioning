@@ -1,0 +1,4 @@
+outs:
+- md5: e2c0a52250977d720e40e2b05c698e69
+  size: 2233360
+  path: census_train.csv

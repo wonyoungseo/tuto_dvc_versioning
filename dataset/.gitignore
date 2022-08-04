@@ -1,1 +1,4 @@
 /census_raw.csv
+/census_cleaned.csv
+/census_train.csv
+/census_test.csv
