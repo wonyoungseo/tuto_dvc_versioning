@@ -1,0 +1,4 @@
+outs:
+- md5: cf249fb90d8f3196963bf28f9874f124
+  size: 166
+  path: model_parameters.json

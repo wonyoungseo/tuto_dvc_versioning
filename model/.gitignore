@@ -1,2 +1,5 @@
 /encoder.joblib
 /lb.joblib
+/model_parameters.json
+/model.joblib
+/model_performance.json
